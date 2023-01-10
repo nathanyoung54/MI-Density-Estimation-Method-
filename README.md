@@ -3,12 +3,12 @@ Density Estimation Method, from Houghton, C. (2019). Calculating the Mutual Info
 
 This code calculates the mutual information between two spike trains, through the Density Estimation Method.
 
-Written purely in MATLAB.
+**o_sim.m** files: Spiking neuron model codes
 
-main_code_fh: Frankenhaeuser-Huxley model
+**main_code_fh.m**: Main code for running Frankenhaeuser-Huxley model
 
-main_code_hh: Hodgkin-Huxley model
+**main_code_hh.m**: Main code for running Hodgkin-Huxley model
 
-main_code_lif: Leaky Integrate-and-Fire model
+**main_code_lif.m**: Main code for running Leaky Integrate-and-Fire model
 
-hh_experiment: additional Hodgkin-Huxley model experiments
+**hh_experiment.m**: additional Hodgkin-Huxley model experiments
